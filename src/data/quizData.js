@@ -33,11 +33,11 @@ const quizData = [
   {
     question: "ما هو نوع الحيوان الموضح في الصورة أدناه؟",
     options: shuffleArray([
-      { text: "البلشون الأبيض", isCorrect: true },
-      { text: "الطائر الورقي", isCorrect: false },
-      { text: "طائر النورس", isCorrect: false },
+      { text: "الباز", isCorrect: true },
+      { text: "الصقر الحر", isCorrect: false },
+      { text: "النسر المصري", isCorrect: false },
     ]),
-    detail: "طائر البلشون الأبيض يتميز بريشه الأبيض الطويل ويعتمد على أشجار القرم كمكان للتغذية.",
+    detail: "الباز هو طائر جارح يهاجم الطيور الصغيرة في محميات القرم.",
     image: two
   },
   {
@@ -63,12 +63,22 @@ const quizData = [
   {
     question: "ما هو نوع الحيوان الموضح في الصورة أدناه؟",
     options: shuffleArray([
+      { text: "البلشون الأبيض", isCorrect: true },
+      { text: "الطائر الورقي", isCorrect: false },
+      { text: "طائر النورس", isCorrect: false },
+    ]),
+    detail: "طائر كبير ذو ريش أبيض طويل، يتميز بعنقه الطويل وأرجله الرفيعة.",
+    image: five
+  },
+  {
+    question: "ما هو نوع الحيوان الموضح في الصورة أدناه؟",
+    options: shuffleArray([
       { text: "البجع", isCorrect: true },
       { text: "الطائر الأخضر", isCorrect: false },
       { text: "الطائر الدجان", isCorrect: false },
     ]),
-    detail: "البجع يتغذى على الأسماك ويعيش بالقرب من أشجار القرم في بعض المحميات البحرية.",
-    image: five
+    detail: "البجع يتغذى على الأسماك ويعيش بالقرب من أشجار القرم.",
+    image: six
   },
   {
     question: "ما هو نوع الحيوان الموضح في الصورة أدناه؟",
@@ -78,7 +88,7 @@ const quizData = [
       { text: "سمك المولي", isCorrect: false },
     ]),
     detail: "سمك المهرج يعيش في بيئة البحر الضحلة بالقرب من جذور أشجار القرم.",
-    image: six
+    image: seven
   },
   {
     question: "ما هو نوع الحيوان الموضح في الصورة أدناه؟",
@@ -88,7 +98,7 @@ const quizData = [
       { text: "سمك المهرج", isCorrect: false },
     ]),
     detail: "أسماك المولي تسبح في المناطق الموحلة الضحلة تحت أشجار القرم.",
-    image: seven
+    image: eight
   },
   {
     question: "ما هو نوع الحيوان الموضح في الصورة أدناه؟",
@@ -98,26 +108,16 @@ const quizData = [
       { text: "سرطان الجوف", isCorrect: false },
     ]),
     detail: "سرطان المانجروف يعيش في التربة الطينية والرطبة بالقرب من جذور أشجار القرم.",
-    image: eight
-  },
-  {
-    question: "ما هو نوع الحيوان الموضح في الصورة أدناه؟",
-    options: shuffleArray([
-      { text: "سمك الانقليس", isCorrect: true },
-      { text: "سمك المهرج", isCorrect: false },
-      { text: "سمك التونة", isCorrect: false },
-    ]),
-    detail: "سمك الانقليس يختبئ بين الصخور وجذور أشجار القرم للحماية.",
     image: nine
   },
   {
     question: "ما هو نوع الحيوان الموضح في الصورة أدناه؟",
     options: shuffleArray([
-      { text: "الباز", isCorrect: true },
-      { text: "الصقر الحر", isCorrect: false },
-      { text: "النسر المصري", isCorrect: false },
+      { text: "سمك الانقليس", isCorrect: true },
+      { text: "سمك التونة", isCorrect: false },
+      { text: "سمك المهرج", isCorrect: false },
     ]),
-    detail: "الباز طائر جارح يهاجم الطيور الصغيرة في محميات القرم.",
+    detail: "سمك الانقليس يختبئ بين الصخور وجذور أشجار القرم للحماية.",
     image: ten
   }
 ];
