@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/protected-mangrove-species/static/css/main.1703cc85.css",
-    "main.js": "/protected-mangrove-species/static/js/main.9b4ae674.js",
+    "main.js": "/protected-mangrove-species/static/js/main.3d4c750e.js",
     "static/js/453.d17a4614.chunk.js": "/protected-mangrove-species/static/js/453.d17a4614.chunk.js",
     "static/media/IMG-20241209-WA0012.jpg": "/protected-mangrove-species/static/media/IMG-20241209-WA0012.94a7bb7c6317db43d7c7.jpg",
     "static/media/IMG-20241209-WA0016.jpg": "/protected-mangrove-species/static/media/IMG-20241209-WA0016.545d96817cf5e541e107.jpg",
@@ -17,11 +17,11 @@
     "static/media/START.webp": "/protected-mangrove-species/static/media/START.3d836f19638ec0d5bdfc.webp",
     "index.html": "/protected-mangrove-species/index.html",
     "main.1703cc85.css.map": "/protected-mangrove-species/static/css/main.1703cc85.css.map",
-    "main.9b4ae674.js.map": "/protected-mangrove-species/static/js/main.9b4ae674.js.map",
+    "main.3d4c750e.js.map": "/protected-mangrove-species/static/js/main.3d4c750e.js.map",
     "453.d17a4614.chunk.js.map": "/protected-mangrove-species/static/js/453.d17a4614.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1703cc85.css",
-    "static/js/main.9b4ae674.js"
+    "static/js/main.3d4c750e.js"
   ]
 }
