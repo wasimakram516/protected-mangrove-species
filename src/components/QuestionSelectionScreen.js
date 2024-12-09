@@ -38,7 +38,7 @@ function QuestionSelectionScreen({ quizData, selectQuestion }) {
             textAlign: 'center',
           }}
         >
-          اختبار عن كائنات مهددة بالانقراض واشجار عمانية
+         كائنات محمية أشجار القرم
         </Typography>
 
         <Grid container spacing={2} justifyContent="center">
